@@ -1,0 +1,131 @@
+{
+  "canvas": {
+    "width": 540,
+    "height": 788,
+    "fps": 30,
+    "background_bgr": [
+      250,
+      250,
+      250
+    ]
+  },
+  "audio": {
+    "path": "../素材/参考原始文件/原参考视频.mp4",
+    "start_seconds": 3.6
+  },
+  "output": "../deliverables/角色分段/心/心.mp4",
+  "shots": [
+    {
+      "name": "心第一形态",
+      "face": "../assets/character4/normal-face.png",
+      "hair": "../assets/character4/normal-hair.png",
+      "accessories": null,
+      "iris": "../assets/character4/normal-iris-ready.png",
+      "eye_center_source": [
+        486,
+        786
+      ],
+      "scale": 1.88,
+      "camera_dx": [
+        34.85,
+        14.45,
+        7.65,
+        4.25,
+        1.7,
+        0.85,
+        0.0,
+        0.0,
+        -2.55,
+        -5.95,
+        -11.9,
+        -19.55,
+        -29.75
+      ],
+      "hair_sway": [
+        -5.1,
+        -2.55,
+        -0.85,
+        0.0,
+        1.275,
+        2.55,
+        3.4,
+        2.55,
+        0.85,
+        -1.7,
+        -4.25,
+        -6.8,
+        -9.35
+      ],
+      "hair_pivot": [
+        564,
+        420
+      ],
+      "rotation_degrees_per_sway": 0.1,
+      "iris_size": 125,
+      "hair_registration": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "face_cover": "../assets/eye-covers-v2/shot-7.png"
+    },
+    {
+      "name": "心第二形态",
+      "face": "../assets/character4/second-face.png",
+      "hair": "../assets/character4/second-hair.png",
+      "accessories": null,
+      "iris": "../assets/character4/second-iris-ready.png",
+      "eye_center_source": [
+        660,
+        784
+      ],
+      "scale": 2.0,
+      "camera_dx": [
+        -34.85,
+        -11.9,
+        -8.5,
+        -4.25,
+        -2.55,
+        -0.85,
+        0.0,
+        1.7,
+        3.4,
+        5.1,
+        7.65,
+        12.75
+      ],
+      "hair_sway": [
+        5.1,
+        2.55,
+        0.85,
+        0.0,
+        -1.275,
+        -2.55,
+        -3.4,
+        -2.55,
+        -0.85,
+        1.7,
+        4.25,
+        6.8
+      ],
+      "hair_pivot": [
+        564,
+        420
+      ],
+      "rotation_degrees_per_sway": 0.1,
+      "iris_size": 125,
+      "hair_registration": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "face_cover": "../assets/eye-covers-v2/shot-8.png"
+    }
+  ]
+}

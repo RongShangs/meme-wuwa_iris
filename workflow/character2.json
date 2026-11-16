@@ -1,0 +1,113 @@
+{
+  "canvas": {
+    "width": 540,
+    "height": 788,
+    "fps": 30,
+    "background_bgr": [
+      250,
+      250,
+      250
+    ]
+  },
+  "audio": {
+    "path": "../素材/参考原始文件/原参考视频.mp4",
+    "start_seconds": 1.1
+  },
+  "output": "../deliverables/character2/character2.mp4",
+  "shots": [
+    {
+      "name": "参考角色白色造型",
+      "face": "../assets/character2/normal-face.png",
+      "hair": "../assets/character2/bangs.png",
+      "accessories": null,
+      "iris": "../assets/character2/iris-ready.png",
+      "eye_center_source": [
+        473,
+        672
+      ],
+      "scale": 1.3,
+      "camera_dx": [
+        41,
+        17,
+        9,
+        5,
+        2,
+        1,
+        0,
+        0,
+        -3,
+        -7,
+        -14,
+        -23,
+        -35
+      ],
+      "hair_sway": [
+        -6,
+        -3,
+        -1,
+        0,
+        1.5,
+        3,
+        4,
+        3,
+        1,
+        -2,
+        -5,
+        -8,
+        -11
+      ],
+      "hair_pivot": [
+        600,
+        300
+      ],
+      "rotation_degrees_per_sway": 0.1,
+      "accessories_follow_hair": false
+    },
+    {
+      "name": "参考角色红色造型",
+      "face": "../assets/character2/red-face.png",
+      "hair": "../assets/character2/bangs.png",
+      "accessories": "../assets/character2/bandage-v2.png",
+      "iris": "../assets/character2/iris-ready.png",
+      "eye_center_source": [
+        738,
+        675
+      ],
+      "scale": 1.3,
+      "camera_dx": [
+        -41,
+        -14,
+        -10,
+        -5,
+        -3,
+        -1,
+        0,
+        2,
+        4,
+        6,
+        9,
+        15
+      ],
+      "hair_sway": [
+        6,
+        3,
+        1,
+        0,
+        -1.5,
+        -3,
+        -4,
+        -3,
+        -1,
+        2,
+        5,
+        8
+      ],
+      "hair_pivot": [
+        600,
+        300
+      ],
+      "rotation_degrees_per_sway": 0.1,
+      "accessories_follow_hair": false
+    }
+  ]
+}

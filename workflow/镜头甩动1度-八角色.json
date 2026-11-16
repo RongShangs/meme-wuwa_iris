@@ -1,0 +1,865 @@
+{
+  "canvas": {
+    "width": 540,
+    "height": 788,
+    "fps": 30,
+    "background_bgr": [
+      250,
+      250,
+      250
+    ]
+  },
+  "audio": {
+    "path": "../素材/参考原始文件/原参考视频.mp4",
+    "start_seconds": 0.1
+  },
+  "output": "../deliverables/镜头甩动1度-八角色/镜头甩动1度-八角色.mp4",
+  "shots": [
+    {
+      "name": "心第一形态",
+      "face": "../角色/心/素材/character4/normal-face.png",
+      "hair": "../角色/心/素材/character4/normal-hair.png",
+      "accessories": null,
+      "iris": "../角色/心/素材/character4/normal-iris-ready.png",
+      "eye_center_source": [
+        486,
+        786
+      ],
+      "scale": 1.88,
+      "camera_dx": [
+        29.85,
+        9.45,
+        2.65,
+        -0.75,
+        -3.3,
+        -4.15,
+        -5.0,
+        -5.0,
+        -7.55,
+        -10.95,
+        -16.9,
+        -24.55,
+        -34.75
+      ],
+      "hair_sway": [
+        -5.1,
+        -2.55,
+        -0.85,
+        0.0,
+        1.275,
+        2.55,
+        3.4,
+        2.55,
+        0.85,
+        -1.7,
+        -4.25,
+        -6.8,
+        -9.35
+      ],
+      "hair_pivot": [
+        564,
+        420
+      ],
+      "rotation_degrees_per_sway": 0.1,
+      "iris_size": 125,
+      "hair_registration": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "face_cover": "../角色/心/素材/eye-covers-v2/shot-7.png"
+    },
+    {
+      "name": "心第二形态",
+      "face": "../角色/心/素材/character4/second-face.png",
+      "hair": "../角色/心/素材/character4/second-hair.png",
+      "accessories": null,
+      "iris": "../角色/心/素材/character4/second-iris-ready.png",
+      "eye_center_source": [
+        660,
+        784
+      ],
+      "scale": 2.0,
+      "camera_dx": [
+        -34.85,
+        -11.9,
+        -8.5,
+        -4.25,
+        -2.55,
+        -0.85,
+        0.0,
+        1.7,
+        3.4,
+        5.1,
+        7.65,
+        12.75
+      ],
+      "hair_sway": [
+        5.1,
+        2.55,
+        0.85,
+        0.0,
+        -1.275,
+        -2.55,
+        -3.4,
+        -2.55,
+        -0.85,
+        1.7,
+        4.25,
+        6.8
+      ],
+      "hair_pivot": [
+        564,
+        420
+      ],
+      "rotation_degrees_per_sway": 0.1,
+      "iris_size": 125,
+      "hair_registration": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "face_cover": "../角色/心/素材/eye-covers-v2/shot-8.png"
+    },
+    {
+      "name": "达尼亚第一形态",
+      "face": "../角色/达尼亚/素材/denia-v19/normal-face.png",
+      "hair": "../角色/达尼亚/素材/denia-v19/bangs.png",
+      "accessories": "../角色/达尼亚/素材/denia-v19/accessories.png",
+      "iris": "../角色/达尼亚/素材/denia-v16/iris-ready.png",
+      "eye_center_source": [
+        458,
+        720
+      ],
+      "scale": 1.136,
+      "camera_dx": [
+        34.85,
+        14.45,
+        7.65,
+        4.25,
+        1.7,
+        0.85,
+        0.0,
+        0.0,
+        -2.55,
+        -5.95,
+        -11.9,
+        -19.55,
+        -29.75
+      ],
+      "hair_sway": [
+        -5.1,
+        -2.55,
+        -0.85,
+        0.0,
+        1.275,
+        2.55,
+        3.4,
+        2.55,
+        0.85,
+        -1.7,
+        -4.25,
+        -6.8,
+        -9.35
+      ],
+      "hair_pivot": [
+        600,
+        300
+      ],
+      "rotation_degrees_per_sway": 0.1,
+      "iris_size": 125,
+      "face_cover": "../角色/达尼亚/素材/eye-covers-v2/shot-1.png"
+    },
+    {
+      "name": "达尼亚第二形态",
+      "face": "../角色/达尼亚/素材/denia-v19/dark-face.png",
+      "hair": "../角色/达尼亚/素材/denia-v19/bangs.png",
+      "accessories": "../角色/达尼亚/素材/denia-v19/accessories.png",
+      "iris": "../角色/达尼亚/素材/denia-v16/iris-ready.png",
+      "eye_center_source": [
+        740,
+        720
+      ],
+      "scale": 1.136,
+      "camera_dx": [
+        -34.85,
+        -11.9,
+        -8.5,
+        -4.25,
+        -2.55,
+        -0.85,
+        0.0,
+        1.7,
+        3.4,
+        5.1,
+        7.65,
+        12.75
+      ],
+      "hair_sway": [
+        5.1,
+        2.55,
+        0.85,
+        0.0,
+        -1.275,
+        -2.55,
+        -3.4,
+        -2.55,
+        -0.85,
+        1.7,
+        4.25,
+        6.8
+      ],
+      "hair_pivot": [
+        600,
+        300
+      ],
+      "rotation_degrees_per_sway": 0.1,
+      "iris_size": 125,
+      "face_cover": "../角色/达尼亚/素材/eye-covers-v2/shot-2.png"
+    },
+    {
+      "name": "西格利卡第一形态",
+      "face": "../角色/西格利卡/素材/第一形态-面部.png",
+      "hair": "../角色/西格利卡/素材/第一形态-前发.png",
+      "accessories": "../角色/西格利卡/素材/第一形态-发卡.png",
+      "iris": "../角色/西格利卡/素材/虹膜.png",
+      "eye_center_source": [
+        530,
+        573
+      ],
+      "scale": 1.55,
+      "camera_dx": [
+        34.85,
+        14.45,
+        7.65,
+        4.25,
+        1.7,
+        0.85,
+        0.0,
+        0.0,
+        -2.55,
+        -5.95,
+        -11.9,
+        -19.55,
+        -29.75
+      ],
+      "hair_sway": [
+        -5.1,
+        -2.55,
+        -0.85,
+        0.0,
+        1.275,
+        2.55,
+        3.4,
+        2.55,
+        0.85,
+        -1.7,
+        -4.25,
+        -6.8,
+        -9.35
+      ],
+      "hair_pivot": [
+        640,
+        130
+      ],
+      "rotation_degrees_per_sway": 0.1,
+      "iris_size": 125,
+      "face_cover": "../角色/西格利卡/素材/第一形态-遮挡.png",
+      "accessories_follow_hair": false,
+      "hair_registration": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "西格利卡第二形态",
+      "face": "../角色/西格利卡/素材/第二形态-面部.png",
+      "hair": "../角色/西格利卡/素材/第二形态-前发.png",
+      "accessories": "../角色/西格利卡/素材/第二形态-发卡.png",
+      "eye_center_source": [
+        650,
+        746
+      ],
+      "scale": 1.65,
+      "camera_dx": [
+        -34.85,
+        -11.9,
+        -8.5,
+        -4.25,
+        -2.55,
+        -0.85,
+        0.0,
+        1.7,
+        3.4,
+        5.1,
+        7.65,
+        12.75
+      ],
+      "hair_sway": [
+        5.1,
+        2.55,
+        0.85,
+        0.0,
+        -1.275,
+        -2.55,
+        -3.4,
+        -2.55,
+        -0.85,
+        1.7,
+        4.25,
+        6.8
+      ],
+      "hair_pivot": [
+        565,
+        335
+      ],
+      "rotation_degrees_per_sway": 0.1,
+      "type": "masked",
+      "accessories_follow_hair": false,
+      "hair_registration": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "爱弥斯第一形态",
+      "face": "../角色/爱弥斯/素材/aimisi/normal-face.png",
+      "hair": "../角色/爱弥斯/素材/aimisi/normal-hair.png",
+      "accessories": null,
+      "iris": "../角色/爱弥斯/素材/aimisi/iris-ready.png",
+      "eye_center_source": [
+        458,
+        620
+      ],
+      "scale": 2.0,
+      "camera_dx": [
+        34.85,
+        14.45,
+        7.65,
+        4.25,
+        1.7,
+        0.85,
+        0.0,
+        0.0,
+        -2.55,
+        -5.95,
+        -11.9,
+        -19.55,
+        -29.75
+      ],
+      "hair_sway": [
+        -5.1,
+        -2.55,
+        -0.85,
+        0.0,
+        1.275,
+        2.55,
+        3.4,
+        2.55,
+        0.85,
+        -1.7,
+        -4.25,
+        -6.8,
+        -9.35
+      ],
+      "hair_pivot": [
+        565,
+        250
+      ],
+      "rotation_degrees_per_sway": 0.1,
+      "iris_size": 125,
+      "face_cover": "../角色/爱弥斯/素材/aimisi/other-eye-cover.png",
+      "hair_registration": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "爱弥斯第二形态",
+      "type": "still",
+      "face": "../角色/爱弥斯/素材/aimisi/armor.png",
+      "anchor_source": [
+        750,
+        440
+      ],
+      "scale": 2.2,
+      "camera_dx": [
+        -34.85,
+        -11.9,
+        -8.5,
+        -4.25,
+        -2.55,
+        -0.85,
+        0.0,
+        1.7,
+        3.4,
+        5.1,
+        7.65,
+        12.75
+      ]
+    },
+    {
+      "name": "弗洛洛第一形态",
+      "face": "../角色/弗洛洛/素材/character2/normal-face.png",
+      "hair": "../角色/弗洛洛/素材/character2/bangs.png",
+      "accessories": null,
+      "iris": "../角色/弗洛洛/素材/character2/iris-first-ready.png",
+      "eye_center_source": [
+        473,
+        672
+      ],
+      "scale": 1.32,
+      "camera_dx": [
+        34.85,
+        14.45,
+        7.65,
+        4.25,
+        1.7,
+        0.85,
+        0.0,
+        0.0,
+        -2.55,
+        -5.95,
+        -11.9,
+        -19.55,
+        -29.75
+      ],
+      "hair_sway": [
+        -5.1,
+        -2.55,
+        -0.85,
+        0.0,
+        1.275,
+        2.55,
+        3.4,
+        2.55,
+        0.85,
+        -1.7,
+        -4.25,
+        -6.8,
+        -9.35
+      ],
+      "hair_pivot": [
+        600,
+        300
+      ],
+      "rotation_degrees_per_sway": 0.1,
+      "accessories_follow_hair": false,
+      "iris_size": 125
+    },
+    {
+      "name": "弗洛洛第二形态",
+      "face": "../角色/弗洛洛/素材/character2/red-face-gentle-brow.png",
+      "hair": "../角色/弗洛洛/素材/character2/bangs-bandage-registered.png",
+      "accessories": null,
+      "iris": "../角色/弗洛洛/素材/character2/iris-ready.png",
+      "eye_center_source": [
+        738,
+        675
+      ],
+      "scale": 1.32,
+      "camera_dx": [
+        -34.85,
+        -11.9,
+        -8.5,
+        -4.25,
+        -2.55,
+        -0.85,
+        0.0,
+        1.7,
+        3.4,
+        5.1,
+        7.65,
+        12.75
+      ],
+      "hair_sway": [
+        5.1,
+        2.55,
+        0.85,
+        0.0,
+        -1.275,
+        -2.55,
+        -3.4,
+        -2.55,
+        -0.85,
+        1.7,
+        4.25,
+        6.8
+      ],
+      "hair_pivot": [
+        600,
+        300
+      ],
+      "rotation_degrees_per_sway": 0.1,
+      "accessories_follow_hair": false,
+      "iris_size": 125
+    },
+    {
+      "name": "卡提第一形态",
+      "face": "../角色/卡提/素材/character3/normal-face.png",
+      "hair": "../角色/卡提/素材/character3/normal-hair.png",
+      "accessories": "../角色/卡提/素材/character3/normal-crown.png",
+      "iris": "../角色/卡提/素材/character3/iris-v2-ready.png",
+      "eye_center_source": [
+        449,
+        543
+      ],
+      "scale": 1.664,
+      "camera_dx": [
+        34.85,
+        14.45,
+        7.65,
+        4.25,
+        1.7,
+        0.85,
+        0.0,
+        0.0,
+        -2.55,
+        -5.95,
+        -11.9,
+        -19.55,
+        -29.75
+      ],
+      "hair_sway": [
+        -5.1,
+        -2.55,
+        -0.85,
+        0.0,
+        1.275,
+        2.55,
+        3.4,
+        2.55,
+        0.85,
+        -1.7,
+        -4.25,
+        -6.8,
+        -9.35
+      ],
+      "hair_pivot": [
+        561,
+        194
+      ],
+      "rotation_degrees_per_sway": 0.1,
+      "iris_size": 125,
+      "accessories_follow_hair": false,
+      "hair_registration": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "face_cover": "../角色/卡提/素材/eye-covers-v2/shot-5.png"
+    },
+    {
+      "name": "卡提第二形态",
+      "face": "../角色/卡提/素材/character3/second-face.png",
+      "hair": "../角色/卡提/素材/character3/second-hair.png",
+      "accessories": "../角色/卡提/素材/character3/second-crown.png",
+      "iris": "../角色/卡提/素材/character3/iris-v2-ready.png",
+      "eye_center_source": [
+        659,
+        564
+      ],
+      "scale": 1.664,
+      "camera_dx": [
+        -34.85,
+        -11.9,
+        -8.5,
+        -4.25,
+        -2.55,
+        -0.85,
+        0.0,
+        1.7,
+        3.4,
+        5.1,
+        7.65,
+        12.75
+      ],
+      "hair_sway": [
+        5.1,
+        2.55,
+        0.85,
+        0.0,
+        -1.275,
+        -2.55,
+        -3.4,
+        -2.55,
+        -0.85,
+        1.7,
+        4.25,
+        6.8
+      ],
+      "hair_pivot": [
+        561,
+        194
+      ],
+      "rotation_degrees_per_sway": 0.1,
+      "iris_size": 125,
+      "accessories_follow_hair": false,
+      "hair_registration": [
+        0.74,
+        0,
+        145.86,
+        0,
+        0.74,
+        95.32
+      ],
+      "face_cover": "../角色/卡提/素材/eye-covers-v2/shot-6.png"
+    },
+    {
+      "name": "椿第一形态",
+      "face": "../角色/椿/素材/第一形态-面部.png",
+      "hair": "../角色/椿/素材/第一形态-前发.png",
+      "accessories": null,
+      "iris": "../角色/椿/素材/第一形态-虹膜.png",
+      "eye_center_source": [
+        564,
+        577
+      ],
+      "scale": 1.61,
+      "camera_dx": [
+        34.85,
+        14.45,
+        7.65,
+        4.25,
+        1.7,
+        0.85,
+        0.0,
+        0.0,
+        -2.55,
+        -5.95,
+        -11.9,
+        -19.55,
+        -29.75
+      ],
+      "hair_sway": [
+        -5.1,
+        -2.55,
+        -0.85,
+        0.0,
+        1.275,
+        2.55,
+        3.4,
+        2.55,
+        0.85,
+        -1.7,
+        -4.25,
+        -6.8,
+        -9.35
+      ],
+      "hair_pivot": [
+        656,
+        110
+      ],
+      "rotation_degrees_per_sway": 0.1,
+      "iris_size": 125,
+      "face_cover": "../角色/椿/素材/第一形态-遮挡.png",
+      "hair_registration": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "椿第二形态",
+      "face": "../角色/椿/素材/第二形态-面部.png",
+      "hair": "../角色/椿/素材/第二形态-前发.png",
+      "accessories": null,
+      "iris": "../角色/椿/素材/第二形态-虹膜.png",
+      "eye_center_source": [
+        709,
+        659
+      ],
+      "scale": 1.55,
+      "camera_dx": [
+        -34.85,
+        -11.9,
+        -8.5,
+        -4.25,
+        -2.55,
+        -0.85,
+        0.0,
+        1.7,
+        3.4,
+        5.1,
+        7.65,
+        12.75
+      ],
+      "hair_sway": [
+        5.1,
+        2.55,
+        0.85,
+        0.0,
+        -1.275,
+        -2.55,
+        -3.4,
+        -2.55,
+        -0.85,
+        1.7,
+        4.25,
+        6.8
+      ],
+      "hair_pivot": [
+        598,
+        210
+      ],
+      "rotation_degrees_per_sway": 0.1,
+      "iris_size": 125,
+      "face_cover": "../角色/椿/素材/第二形态-遮挡.png",
+      "hair_registration": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "漂泊者男版",
+      "face": "../角色/漂泊者/素材/男-面部.png",
+      "hair": "../角色/漂泊者/素材/男-头发.png",
+      "accessories": null,
+      "iris": "../角色/漂泊者/素材/虹膜.png",
+      "eye_center_source": [
+        515,
+        577
+      ],
+      "scale": 1.55,
+      "camera_dx": [
+        34.85,
+        14.45,
+        7.65,
+        4.25,
+        1.7,
+        0.85,
+        0.0,
+        0.0,
+        -2.55,
+        -5.95,
+        -11.9,
+        -19.55,
+        -29.75
+      ],
+      "hair_sway": [
+        -5.1,
+        -2.55,
+        -0.85,
+        0.0,
+        1.275,
+        2.55,
+        3.4,
+        2.55,
+        0.85,
+        -1.7,
+        -4.25,
+        -6.8,
+        -9.35
+      ],
+      "hair_pivot": [
+        638,
+        150
+      ],
+      "rotation_degrees_per_sway": 0.1,
+      "iris_size": 125,
+      "face_cover": "../角色/漂泊者/素材/男-遮挡.png",
+      "hair_registration": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "camera_dy": 8
+    },
+    {
+      "name": "漂泊者女版",
+      "face": "../角色/漂泊者/素材/女-面部-v2.png",
+      "hair": "../角色/漂泊者/素材/女-头发.png",
+      "accessories": null,
+      "iris": "../角色/漂泊者/素材/虹膜.png",
+      "eye_center_source": [
+        771,
+        597
+      ],
+      "scale": 1.7,
+      "camera_dx": [
+        -34.85,
+        -11.9,
+        -8.5,
+        -4.25,
+        -2.55,
+        -0.85,
+        0.0,
+        1.7,
+        3.4,
+        5.1,
+        7.65,
+        12.75
+      ],
+      "hair_sway": [
+        5.1,
+        2.55,
+        0.85,
+        0.0,
+        -1.275,
+        -2.55,
+        -3.4,
+        -2.55,
+        -0.85,
+        1.7,
+        4.25,
+        6.8
+      ],
+      "hair_pivot": [
+        655,
+        150
+      ],
+      "rotation_degrees_per_sway": 0.1,
+      "iris_size": 125,
+      "face_cover": "../角色/漂泊者/素材/女-遮挡.png",
+      "hair_registration": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "camera_dy": 8
+    }
+  ],
+  "opening": {
+    "mark_path": "../素材/开头/声痕-竖向黑色透明.png",
+    "frames": 30,
+    "face_fade_frames": 5
+  },
+  "ending": {
+    "frames": 29
+  },
+  "camera_swing_degrees": 1.0
+}

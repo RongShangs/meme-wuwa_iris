@@ -1,0 +1,100 @@
+{
+  "canvas": {
+    "width": 540,
+    "height": 788,
+    "fps": 30,
+    "background_bgr": [
+      250,
+      250,
+      250
+    ]
+  },
+  "audio": {
+    "path": "../../素材/参考原始文件/原参考视频.mp4",
+    "start_seconds": 4.433333
+  },
+  "output": "成片/爱弥斯.mp4",
+  "shots": [
+    {
+      "name": "爱弥斯第一形态",
+      "face": "素材/aimisi/normal-face-v2.png",
+      "hair": "素材/aimisi/normal-hair-v2.png",
+      "accessories": null,
+      "iris": "素材/aimisi/iris-ready.png",
+      "eye_center_source": [
+        468,
+        620
+      ],
+      "scale": 2.0,
+      "camera_dx": [
+        14.85,
+        -5.55,
+        -12.35,
+        -15.75,
+        -18.3,
+        -19.15,
+        -20.0,
+        -20.0,
+        -22.55,
+        -25.95,
+        -31.9,
+        -39.55,
+        -49.75
+      ],
+      "hair_sway": [
+        0,
+        5.1,
+        4.25,
+        2.55,
+        0.85,
+        -0.85,
+        -2.55,
+        -3.4,
+        -2.55,
+        -0.85,
+        1.7,
+        4.25,
+        6.8
+      ],
+      "hair_pivot": [
+        565,
+        250
+      ],
+      "rotation_degrees_per_sway": 0.1,
+      "iris_size": 125,
+      "face_cover": "素材/aimisi/other-eye-cover.png",
+      "hair_registration": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "爱弥斯第二形态",
+      "type": "still",
+      "face": "素材/aimisi/armor.png",
+      "anchor_source": [
+        750,
+        440
+      ],
+      "scale": 2.2,
+      "camera_dx": [
+        -34.85,
+        -11.9,
+        -8.5,
+        -4.25,
+        -2.55,
+        -0.85,
+        0.0,
+        1.7,
+        3.4,
+        5.1,
+        7.65,
+        12.75
+      ]
+    }
+  ]
+}
