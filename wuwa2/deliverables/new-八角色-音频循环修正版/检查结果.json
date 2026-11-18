@@ -1,0 +1,168 @@
+{
+  "size": [
+    1080,
+    1576
+  ],
+  "fps": 30,
+  "frames": 277,
+  "duration_seconds": 9.233333333333333,
+  "audio_codec": "aac",
+  "full_decode": "passed",
+  "individual_clips": 8,
+  "audio_duration_seconds": 9.233333,
+  "audio_source_end_aligned": true,
+  "individual_frames_reviewed": 222,
+  "opening_frames": 30,
+  "ending_frames": 25,
+  "exported_audio_alignment": [
+    {
+      "time": 0.5,
+      "lag_samples": 0,
+      "correlation": 0.9997177560240106
+    },
+    {
+      "time": 3.5,
+      "lag_samples": 0,
+      "correlation": 0.9998404201903504
+    },
+    {
+      "time": 6.5,
+      "lag_samples": 0,
+      "correlation": 0.999844441447659
+    }
+  ],
+  "beat_timing": {
+    "opening_frames": 30,
+    "ending_frames": 25,
+    "total_frames": 277,
+    "starts": [
+      30,
+      44,
+      58,
+      72,
+      85,
+      99,
+      113,
+      127,
+      141,
+      155,
+      168,
+      182,
+      196,
+      210,
+      224,
+      238,
+      252
+    ],
+    "lengths": [
+      14,
+      14,
+      14,
+      13,
+      14,
+      14,
+      14,
+      14,
+      14,
+      13,
+      14,
+      14,
+      14,
+      14,
+      14,
+      14
+    ],
+    "beat_seconds": 0.46153846153846156,
+    "bpm": 130.0
+  },
+  "exported_audio_loop": {
+    "samples": 407190,
+    "sample_rate": 44100,
+    "video_audio_gap_seconds": 0.0,
+    "boundary_sample_step": 0.05468292534351349,
+    "ordinary_step_95th": 0.028302157297730446,
+    "first_35ms_rms": 0.2856414020061493,
+    "last_35ms_rms": 0.2775247097015381,
+    "loop_beats": 20,
+    "beat_phase_error_ms": 2.564102564102555,
+    "transition_ms": 120
+  },
+  "loop_endpoint_mean_error": 0.09057780284514633,
+  "loop": "centered waveform -> Phoebe vertical pupil; Calcharo vertical pupil -> same waveform",
+  "q_scale_factor": 0.88,
+  "q_individual_framing_factors": {
+    "菲比": 1,
+    "弗洛洛": 1,
+    "达尼亚": 1,
+    "今汐": 1,
+    "爱弥斯": 1,
+    "赞妮": 1.5,
+    "椿": 0.8,
+    "卡卡罗": 1
+  },
+  "waveform_height": 1050,
+  "opening_iris": "three flat purple tooth-pattern layers transition into the actual Phoebe iris",
+  "outro_pupil": "eye aperture and face alpha occlude the morph until the face has disappeared",
+  "first_face_offset_x": -2,
+  "second_form_source_checks": {
+    "菲比": "newly generated complete Q character cel adopted",
+    "弗洛洛": "newly generated complete Q character cel adopted",
+    "达尼亚": "newly generated complete Q character cel adopted",
+    "今汐": "newly generated complete Q character cel adopted",
+    "爱弥斯": "newly generated complete Q character cel adopted",
+    "赞妮": "newly generated complete Q character cel adopted",
+    "椿": "newly generated complete Q character cel adopted",
+    "卡卡罗": "newly generated complete Q character cel adopted"
+  },
+  "regenerated_normal_form_checks": {
+    "卡卡罗": "generated RGBA adopted unchanged"
+  },
+  "character_lock_checks": {},
+  "exported_shot_frame_mean_errors": {
+    "菲比": [
+      1.660854170583443,
+      1.3264272732969857
+    ],
+    "弗洛洛": [
+      2.3303683336466756,
+      1.5927437801591777
+    ],
+    "达尼亚": [
+      2.2442039543773893,
+      2.574146926113931
+    ],
+    "今汐": [
+      1.5592208748511625,
+      1.740202575672119
+    ],
+    "爱弥斯": [
+      1.650184088487811,
+      1.694306573917403
+    ],
+    "赞妮": [
+      1.7668374381149339,
+      1.5322335025380711
+    ],
+    "椿": {
+      "forms": [
+        1.9893698690229993,
+        1.974439117628627
+      ],
+      "iris_roi": [
+        1.7788311688311689
+      ]
+    },
+    "卡卡罗": [
+      1.4346282195901485,
+      2.17625023500658
+    ]
+  },
+  "newly_generated_q_characters": 8,
+  "iris_type": "color plates; Chun uses a complete reference-matched iris fitted under the cleaned eye sockets",
+  "iris_binding": "pair anchored to screen; independent of face camera_dx/camera_dy",
+  "fringe": "short front fringe only; rear hair fixed",
+  "exceptions": {
+    "达尼亚": "reference closed-eye expression redrawn; no iris added",
+    "赞妮": "one visible eye; no hidden eye invented"
+  }
+}

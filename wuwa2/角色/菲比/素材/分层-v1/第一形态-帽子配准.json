@@ -1,0 +1,8 @@
+{
+  "matrix": [[1.0959688102742542, 0.00028536574118109, 2.692454505539554], [-0.00028536574118109, 1.0959688102742542, -4.466807683613565]],
+  "method": "SIFT on visible hat; partial affine RANSAC against original face canvas",
+  "inliers": 14,
+  "median_reprojection_error_pixels": 0.5670376178007018,
+  "source": "第一形态-帽子-生成原图.png",
+  "reference": "第一形态-面部.png"
+}

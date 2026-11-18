@@ -1,0 +1,16 @@
+{
+  "matrix": [
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      1,
+      0
+    ]
+  ],
+  "method": "same original canvas; adopted after frontal landmark and rendered-frame review",
+  "note": "sparse-feature SIFT proposals were not adopted"
+}

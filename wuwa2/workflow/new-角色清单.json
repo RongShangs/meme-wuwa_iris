@@ -1,0 +1,439 @@
+{
+  "rules": {
+    "normal_iris_size": 200,
+    "second_iris_size": 544,
+    "scale_relative_to_previous": 0.8,
+    "second_forms": "Generate complete redrawn Q character cel; separately generate only eye color plates; no separate hair or hat layers; no hair sway",
+    "iris_motion": "pair screen anchored; independent of face camera motion",
+    "q_scale_factor": 0.88,
+    "first_face_offset_x": -2,
+    "mark_height": 1050,
+    "resonance_background_bgr": [
+      136,
+      51,
+      109
+    ],
+    "layered_iris_background": true
+  },
+  "characters": [
+    {
+      "order": 1,
+      "name": "菲比",
+      "approved_config": "角色/菲比/项目.json",
+      "second": {
+        "source": "new/1菲比/2.jpg",
+        "scale": 1.9506667,
+        "eyes": [
+          {
+            "center": [
+              877,
+              735
+            ]
+          },
+          {
+            "center": [
+              548,
+              734
+            ]
+          }
+        ],
+        "generated_cel": "角色/菲比/素材/q2-v2/生成角色整图-透明.png"
+      }
+    },
+    {
+      "order": 2,
+      "name": "弗洛洛",
+      "reuse": true,
+      "first_eyes": [
+        [
+          473,
+          672
+        ],
+        [
+          736,
+          672
+        ]
+      ],
+      "second": {
+        "source": "new/2弗洛洛/2.jpg",
+        "scale": 4.8,
+        "eyes": [
+          {
+            "center": [
+              611,
+              514
+            ],
+            "roi": [
+              577,
+              488,
+              646,
+              545
+            ],
+            "threshold": 75,
+            "erode": 2
+          },
+          {
+            "center": [
+              470,
+              514
+            ],
+            "roi": [
+              434,
+              489,
+              506,
+              545
+            ],
+            "threshold": 75,
+            "erode": 2
+          }
+        ],
+        "generated_cel": "角色/弗洛洛/素材/q2-v2/生成角色整图.png"
+      }
+    },
+    {
+      "order": 3,
+      "name": "达尼亚",
+      "reuse": true,
+      "first_eyes": [
+        [
+          458,
+          720
+        ],
+        [
+          740,
+          720
+        ]
+      ],
+      "second": {
+        "source": "new/3达尼亚/2.jpg",
+        "mode": "closed",
+        "anchor": [
+          640,
+          271
+        ],
+        "scale": 5.0,
+        "generated_cel": "角色/达尼亚/素材/q2-v2/生成角色整图.png",
+        "generated_closed_eyes": [
+          [
+            800,
+            645
+          ],
+          [
+            515,
+            645
+          ]
+        ]
+      }
+    },
+    {
+      "order": 4,
+      "name": "今汐",
+      "first_scale": 3.0,
+      "second": {
+        "source": "new/4今汐/2.jpg",
+        "scale": 2.24,
+        "eyes": [
+          {
+            "center": [
+              611,
+              388
+            ],
+            "roi": [
+              543,
+              317,
+              679,
+              454
+            ],
+            "threshold": 60,
+            "erode": 3
+          },
+          {
+            "center": [
+              371,
+              404
+            ],
+            "roi": [
+              303,
+              336,
+              441,
+              470
+            ],
+            "threshold": 60,
+            "erode": 3
+          }
+        ],
+        "generated_cel": "角色/今汐/素材/q2-v2/生成角色整图.png"
+      }
+    },
+    {
+      "order": 5,
+      "name": "爱弥斯",
+      "reuse": true,
+      "first_eyes": [
+        [
+          468,
+          620
+        ],
+        [
+          665,
+          620
+        ]
+      ],
+      "second": {
+        "source": "new/5爱弥斯/2.jpg",
+        "scale": 3.6,
+        "eyes": [
+          {
+            "center": [
+              614,
+              470
+            ],
+            "roi": [
+              570,
+              425,
+              660,
+              510
+            ],
+            "threshold": 70,
+            "erode": 3
+          },
+          {
+            "center": [
+              398,
+              503
+            ],
+            "roi": [
+              350,
+              465,
+              445,
+              540
+            ],
+            "threshold": 70,
+            "erode": 3
+          }
+        ],
+        "generated_cel": "角色/爱弥斯/素材/q2-v2/生成角色整图.png"
+      }
+    },
+    {
+      "order": 6,
+      "name": "赞妮",
+      "first_scale": 3.2,
+      "second": {
+        "source": "new/6赞妮/2.jpg",
+        "scale": 3.3,
+        "eyes": [
+          {
+            "center": [
+              375,
+              327
+            ],
+            "ellipse": [
+              375,
+              327,
+              14,
+              27
+            ]
+          }
+        ],
+        "generated_cel": "角色/赞妮/素材/q2-v2/生成角色整图-全身.png",
+        "target_eye_height": 132,
+        "framing_factor": 1.5
+      }
+    },
+    {
+      "order": 7,
+      "name": "椿",
+      "reuse": true,
+      "first_eyes": [
+        [
+          564,
+          577
+        ],
+        [
+          779,
+          577
+        ]
+      ],
+      "second": {
+        "source": "new/7椿/2.jpg",
+        "scale": 1.9,
+        "eyes": [
+          {
+            "center": [
+              575,
+              758
+            ],
+            "roi": [
+              485,
+              690,
+              668,
+              830
+            ],
+            "threshold": 75,
+            "erode": 3
+          },
+          {
+            "center": [
+              165,
+              742
+            ],
+            "roi": [
+              110,
+              674,
+              229,
+              812
+            ],
+            "threshold": 75,
+            "erode": 3
+          }
+        ],
+        "generated_cel": "角色/椿/素材/q2-v7/第二形态-眼白清理.png",
+        "framing_factor": 0.8,
+        "iris_generated": "角色/椿/素材/q2-v5/第二形态-虹膜-原图核对重生-v2.png",
+        "iris_height_ratio": 1.28,
+        "iris_fit": "eye_width",
+        "iris_width_ratio": 1.02,
+        "iris_geometry_source": "角色/椿/素材/q2-v6/第二形态-眼眶清线.png",
+        "eye_background_bgr": [
+          226,
+          231,
+          253
+        ]
+      }
+    },
+    {
+      "order": 8,
+      "name": "卡卡罗",
+      "first_scale": 3.0,
+      "second": {
+        "source": "new/8卡卡罗/2.jpg",
+        "scale": 7.0,
+        "iris_size": 400,
+        "eyes": [
+          {
+            "center": [
+              200,
+              208
+            ],
+            "roi": [
+              183,
+              187,
+              219,
+              226
+            ],
+            "threshold": 110,
+            "erode": 1,
+            "polygon": [
+              [
+                190,
+                196
+              ],
+              [
+                207,
+                196
+              ],
+              [
+                208,
+                208
+              ],
+              [
+                205,
+                214
+              ],
+              [
+                198,
+                218
+              ],
+              [
+                192,
+                217
+              ],
+              [
+                189,
+                212
+              ],
+              [
+                189,
+                201
+              ]
+            ]
+          },
+          {
+            "center": [
+              147,
+              207
+            ],
+            "roi": [
+              134,
+              187,
+              163,
+              225
+            ],
+            "threshold": 110,
+            "erode": 1,
+            "polygon": [
+              [
+                143,
+                195
+              ],
+              [
+                148,
+                195
+              ],
+              [
+                151,
+                200
+              ],
+              [
+                151,
+                208
+              ],
+              [
+                149,
+                215
+              ],
+              [
+                146,
+                218
+              ],
+              [
+                141,
+                216
+              ],
+              [
+                140,
+                210
+              ],
+              [
+                141,
+                201
+              ],
+              [
+                142,
+                198
+              ]
+            ]
+          }
+        ],
+        "generated_cel": "角色/卡卡罗/素材/q2-v2/生成角色整图.png"
+      },
+      "first_face_cel": "角色/卡卡罗/素材/new-v2/第一形态-面部-透明原图.png"
+    }
+  ],
+  "output_name": "new-八角色-音频循环修正版",
+  "config_name": "new-八角色-音频循环修正版",
+  "clip_name": "new-高光调整.mp4",
+  "review_folder": "new-高光调整检查",
+  "music_timing": {
+    "bpm": 130,
+    "opening_frames": 30,
+    "loop_beats": 20,
+    "source": "素材/音轨/STRUCT - UdieNnx.mp3",
+    "source_first_face_beat_seconds": 64.60343076923077,
+    "prepared_audio": "素材/音轨/new-八角色-音乐循环修正.wav",
+    "loop_crossfade_ms": 120,
+    "analysis": "same song 20 beats earlier; smoother beat-matched seam and longer crossfade",
+    "output_gain": 1.35
+  }
+}

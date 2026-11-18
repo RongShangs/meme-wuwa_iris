@@ -1,0 +1,9 @@
+{
+  "mode": "built-in image_gen edit",
+  "asset": "角色/赞妮/素材/q2-v2/生成角色整图-全身.png",
+  "references": [
+    "角色/赞妮/素材/q2-v2/生成角色整图.png",
+    "new/6赞妮/2.jpg"
+  ],
+  "prompt": "EDIT TARGET image 1 is the approved transparent chibi Zani horse/dinosaur mascot drawing, currently cut at its waist. Image 2 is the original reference showing its COMPLETE FULL BODY. Extend/redraw the approved mascot as a COMPLETE STANDING FULL BODY, including the missing lower uniform, black belt with gold hardware, dark charcoal trousers, TWO separate short trouser legs with black shoes/soles, the thin dark arrow-tip tail extending on viewer right, and small yellow waist accessory on viewer left, exactly as reference 2. Preserve the SAME oversized gray-blue horse/dinosaur head, long ivory muzzle with TWO nostril dots, TWO gray striped horns (one white wrapped band), white mane tuft and triangular white back spikes, one visible oval eye with black outer rim and white eye ring, white uniform shoulder armor and striped white sleeves, RED TIE with gold edge. Preserve flat cute bold black outline drawing style, palette and proportions; do NOT add human eyes, flowers, jewelry, hair ornaments or any invented details. Match the original complete mascot's head/body ratio. Frame the ENTIRE character with generous transparent margin on ALL SIDES including fully visible feet/tail. The interior of the SINGLE visible oval eye must be a genuinely TRANSPARENT opening for compositing a separate eye color texture, while preserving the WHITE ring and BLACK outer outline. Whole character must be one flattened cel, no separate hair or hat. Output high resolution portrait PNG with genuine alpha transparency outside character and inside the one eye opening. No background, no text, no extra characters."
+}

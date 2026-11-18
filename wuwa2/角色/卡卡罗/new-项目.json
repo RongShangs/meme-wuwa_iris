@@ -1,0 +1,189 @@
+{
+  "canvas": {
+    "width": 1080,
+    "height": 1576,
+    "fps": 30,
+    "background_bgr": [
+      250,
+      250,
+      250
+    ]
+  },
+  "camera_shift_pixels": 10,
+  "shots": [
+    {
+      "name": "卡卡罗第一形态",
+      "face": "素材/new-v2/第一形态-面部-透明原图.png",
+      "hair": "素材/new-v1/第一形态-前发.png",
+      "accessories": null,
+      "iris": "素材/new-v1/第一形态-虹膜.png",
+      "iris_size": 200,
+      "eye_center_source": [
+        562,
+        457
+      ],
+      "iris_centers_source": [
+        [
+          562,
+          457
+        ],
+        [
+          750,
+          457
+        ]
+      ],
+      "scale": 3.0,
+      "camera_dx": [
+        57.7,
+        20.03846,
+        5.39231,
+        -1.93077,
+        -7.03077,
+        -9.64615,
+        -11.21538,
+        -12.0,
+        -13.96154,
+        -19.19231,
+        -26.64615,
+        -38.15385,
+        -52.66923,
+        -71.5
+      ],
+      "hair_sway": [
+        0.0,
+        9.41538,
+        8.76154,
+        5.88462,
+        2.74615,
+        -0.39231,
+        -3.53077,
+        -5.88462,
+        -6.14615,
+        -4.05385,
+        -0.52308,
+        4.18462,
+        8.89231,
+        13.6
+      ],
+      "hair_pivot": [
+        656,
+        143
+      ],
+      "rotation_degrees_per_sway": 0.05,
+      "hair_registration": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "iris_highlight": false,
+      "iris_layer": "素材/new-v1/第一形态-虹膜组.png",
+      "iris_layer_registration": [
+        0.3333333333333333,
+        0,
+        527.6666666666666,
+        0,
+        0.3333333333333333,
+        422.6666666666667
+      ]
+    },
+    {
+      "name": "卡卡罗第二形态-Q版重绘",
+      "face": "素材/q2-v2/第二形态-重绘整图.png",
+      "hair": "素材/q2-v2/第二形态-空前发.png",
+      "accessories": null,
+      "iris": "素材/q2-v2/第二形态-虹膜.png",
+      "iris_clip": "素材/q2-v2/第二形态-眼眶可见区.png",
+      "eye_center_source": [
+        604,
+        668
+      ],
+      "iris_centers_source": [
+        [
+          604,
+          668
+        ],
+        [
+          391,
+          668
+        ]
+      ],
+      "scale": 1.5330427607343322,
+      "iris_size": 352,
+      "camera_dx": [
+        -69.7,
+        -30.86154,
+        -19.09231,
+        -12.42308,
+        -7.19231,
+        -4.31538,
+        -1.56923,
+        -0.13077,
+        2.61538,
+        5.49231,
+        8.36923,
+        11.76923,
+        16.86923,
+        25.5
+      ],
+      "hair_sway": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "hair_pivot": [
+        0,
+        0
+      ],
+      "rotation_degrees_per_sway": 0,
+      "hair_registration": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "iris_layer": "素材/q2-v2/第二形态-虹膜组.png",
+      "iris_layer_registration": [
+        0.6522975259483283,
+        0,
+        273.96496089829793,
+        0,
+        0.6522975259483283,
+        551.1914094263375
+      ]
+    }
+  ],
+  "audio": {
+    "path": "../../素材/音轨/new-八角色-音乐循环修正.wav",
+    "start_seconds": 7.466666666666667
+  },
+  "timing": {
+    "global_start_frame": 224,
+    "sample_frames": [
+      7,
+      21
+    ]
+  },
+  "output": "成片/new-高光调整.mp4",
+  "provenance": {
+    "order": 8,
+    "first_form": "new normal-form cels",
+    "second_form": "new generated full Q character cel plus separate eye color plate",
+    "iris_motion": "screen-anchored group, independent from face camera movement"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "generated_source": "角色/椿/素材/q2-v7/第二形态-眼白清理.png",
+  "eye_centers": [
+    [
+      524,
+      498
+    ],
+    [
+      218,
+      493
+    ]
+  ],
+  "eye_regions": [
+    [
+      443,
+      443,
+      164,
+      111,
+      15973
+    ],
+    [
+      145,
+      438,
+      146,
+      110,
+      13826
+    ]
+  ],
+  "scale": 2.547349325573176,
+  "reference": "new/7椿/2.jpg",
+  "head_hair_ornaments": "one fixed generated full-character cel"
+}

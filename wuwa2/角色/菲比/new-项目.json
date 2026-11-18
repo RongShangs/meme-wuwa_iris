@@ -1,0 +1,193 @@
+{
+  "canvas": {
+    "width": 1080,
+    "height": 1576,
+    "fps": 30,
+    "background_bgr": [
+      250,
+      250,
+      250
+    ]
+  },
+  "audio": {
+    "path": "../../素材/音轨/new-八角色-音乐循环修正.wav",
+    "start_seconds": 1.0
+  },
+  "output": "成片/new-高光调整.mp4",
+  "camera_shift_pixels": 10,
+  "shots": [
+    {
+      "name": "菲比第一形态",
+      "face": "素材/分层-v1/第一形态-面部-v2.png",
+      "hair": "素材/分层-v1/第一形态-前发.png",
+      "accessories": "素材/分层-v1/第一形态-帽子-v2.png",
+      "iris": "素材/分层-v1/第一形态-虹膜.png",
+      "iris_layer": "素材/new-v1/第一形态-虹膜组.png",
+      "eye_center_source": [
+        511,
+        550
+      ],
+      "scale": 3.12,
+      "iris_centers_source": [
+        [
+          511,
+          550
+        ],
+        [
+          721,
+          549
+        ]
+      ],
+      "camera_dx": [
+        57.7,
+        20.03846,
+        5.39231,
+        -1.93077,
+        -7.03077,
+        -9.64615,
+        -11.21538,
+        -12.0,
+        -13.96154,
+        -19.19231,
+        -26.64615,
+        -38.15385,
+        -52.66923,
+        -71.5
+      ],
+      "hair_sway": [
+        0.0,
+        9.41538,
+        8.76154,
+        5.88462,
+        2.74615,
+        -0.39231,
+        -3.53077,
+        -5.88462,
+        -6.14615,
+        -4.05385,
+        -0.52308,
+        4.18462,
+        8.89231,
+        13.6
+      ],
+      "hair_pivot": [
+        617,
+        258
+      ],
+      "rotation_degrees_per_sway": 0.05,
+      "iris_size": 200,
+      "hair_registration": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "iris_layer_registration": [
+        0.3205128205128205,
+        0,
+        477.88461538461536,
+        0,
+        0.3205128205128205,
+        515.7051282051282
+      ],
+      "accessories_follow_hair": false,
+      "iris_highlight": {
+        "vertical": -0.15
+      }
+    },
+    {
+      "name": "菲比第二形态-Q版重绘",
+      "face": "素材/q2-v2/第二形态-重绘整图.png",
+      "hair": "素材/q2-v2/第二形态-空前发.png",
+      "accessories": null,
+      "iris": "素材/q2-v2/第二形态-虹膜.png",
+      "iris_clip": "素材/q2-v2/第二形态-眼眶可见区.png",
+      "eye_center_source": [
+        762,
+        632
+      ],
+      "iris_centers_source": [
+        [
+          762,
+          632
+        ],
+        [
+          476,
+          631
+        ]
+      ],
+      "scale": 1.9746719565006872,
+      "iris_size": 479,
+      "camera_dx": [
+        -69.7,
+        -30.86154,
+        -19.09231,
+        -12.42308,
+        -7.19231,
+        -4.31538,
+        -1.56923,
+        -0.13077,
+        2.61538,
+        5.49231,
+        8.36923,
+        11.76923,
+        16.86923,
+        25.5
+      ],
+      "hair_sway": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "hair_pivot": [
+        0,
+        0
+      ],
+      "rotation_degrees_per_sway": 0,
+      "hair_registration": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "iris_layer": "素材/q2-v2/第二形态-虹膜组.png",
+      "iris_layer_registration": [
+        0.5064132281354207,
+        0,
+        352.9700200103882,
+        0,
+        0.5064132281354207,
+        507.93246781982697
+      ]
+    }
+  ],
+  "second_form_source": "new/1菲比/2.jpg; only iris is image-generated",
+  "timing": {
+    "global_start_frame": 30,
+    "sample_frames": [
+      7,
+      21
+    ]
+  },
+  "provenance": {
+    "order": 1,
+    "first_form": "reused existing adopted cels",
+    "second_form": "new generated full Q character cel plus separate eye color plate",
+    "iris_motion": "screen-anchored group, independent from face camera movement"
+  }
+}

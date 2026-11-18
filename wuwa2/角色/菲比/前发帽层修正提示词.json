@@ -1,0 +1,14 @@
+{
+  "mode": "built-in imagegen",
+  "adopted": [
+    {
+      "file": "第一形态-面部-v2.png",
+      "prompt": "Use case: precise-object-edit. This is the EXACT registered 1236x1272 source face animation layer. Surgical edit ONLY residual front hair on the forehead/scalp and temples underneath hat. Remove ALL blonde swept-back parted hair currently forming a cap around forehead from under hat brim down toward ears (both sides, especially viewer left x330-475 y315-560). This hair belongs to the moving bangs cel and must NOT remain frozen in the face base. Reconstruct smooth pale SKIN of the forehead and temples all the way up to the underside of the hat, with no hair strands, no central part, no blond arc behind the bangs. Keep blonde LONG REAR HAIR outside/behind the ears, all black side ribbons, ears, neck, costume, mouth, eyebrows, eyelashes and exact eye holes unchanged. The wide white witch hat remains intact in exactly same position. BOTH eye interiors remain actual transparent alpha holes, particularly centers left (511,550), right (721,549). Maintain exact dimensions, registration and position of every other feature, no new expression, no crop, no recentering, no different viewpoint. Real transparent background and transparent eye interiors; no checkerboard painted into pixels. Result is complete original face/body/hat/back-hair base without any front hair scalp cap. Do NOT add bangs."
+    },
+    {
+      "file": "第一形态-帽子-生成原图.png",
+      "prompt": "Precise animation cel separation, NOT a new drawing. Input is a registered 1236 wide x 1272 high image. Output MUST retain that exact 1236x1272 portrait canvas and every hat pixel at its original location. KEEP ONLY THE VISIBLE PIXELS of the white/blue witch hat as they appear in this exact input, on true alpha transparency. Do not reconstruct the hidden hat behind the person's head. In particular the entire central head silhouette, including its blond hair cap and forehead, is an ALPHA CUTOUT in the lower-center of the hat layer. The lower hat boundary is NOT a continuous oval disc: it is split into left and right brim wings by the large transparent head cutout in the center. Preserve the visible navy/gold crown band and blue ribbon. Remove the entire head, hair, black side ribbons, skin, eyes and clothing without filling their areas with hat material. Exact original hat crop and position; do not enlarge, recenter or scale it. No drawing new hat underside where the character occluded it. Pure transparent empty canvas below the visible hat. This is an occlusion-preserving segmentation overlay placed above original bangs."
+    }
+  ],
+  "second_form_rule": "Use original supplied image. Only the standalone iris is image-generated. Do not generate a second-form face, bangs, or hat."
+}

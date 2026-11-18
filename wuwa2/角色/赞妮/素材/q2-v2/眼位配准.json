@@ -1,0 +1,21 @@
+{
+  "generated_source": "角色/赞妮/素材/q2-v2/生成角色整图-全身.png",
+  "eye_centers": [
+    [
+      665,
+      479
+    ]
+  ],
+  "eye_regions": [
+    [
+      626,
+      411,
+      78,
+      135,
+      8233
+    ]
+  ],
+  "scale": 0.9777777777777777,
+  "reference": "new/6赞妮/2.jpg",
+  "head_hair_ornaments": "one fixed generated full-character cel"
+}

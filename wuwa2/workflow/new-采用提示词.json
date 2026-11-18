@@ -1,0 +1,135 @@
+[
+  {
+    "key": "jinxi_base",
+    "character": "今汐",
+    "file": "第一形态-完整.png",
+    "prompt": "Use case: stylized-concept. Asset: first-form head-and-shoulders animation cel for the project's Wuthering Waves iris transition video. Input 1 is character identity and costume reference; input 2 is ONLY project's linework and restrained flat anime coloring style, do not copy Phoebe's identity, hat or costume. Character: Jinhsi / 今汐: silver-white long hair in low twin tails, straight layered front fringe, teal/aqua hair ties, ornate small gold hornlike ornaments on both sides of head, pale gray pink eyes, black high collar and white/gray sleeveless dress with gold trim. Gentle calm expression. Draw ONE front-facing head-and-shoulders portrait, level eyes clearly visible, with all crown hair/horns/hair ornaments fully inside frame and safe margin. Match the supplied character reference precisely. Simple crisp fine dark outlines, clean flat colors and restrained shadows, matching established project, no chibi proportions. Keep complete front fringe and rear hair on this reference cel; later these will be separated. Actual transparent background, no hands, weapon, text, logos, watermark, frame or blush hatching. Do not crop crown tips. Portrait canvas, large readable head, stable frontal gaze.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "key": "zanni_base",
+    "character": "赞妮",
+    "file": "第一形态-完整.png",
+    "prompt": "Use case: stylized-concept. Asset: first-form head-and-shoulders animation cel for the project's Wuthering Waves iris transition video. Input 1 is character identity and costume reference; input 2 is ONLY project's linework and restrained flat anime coloring style, do not copy Phoebe's identity, hat or costume. Character: Zani / 赞妮: silver-white shoulder-length layered hair with long side pieces, TWO tall dark charcoal ridged horns with narrow pale tips, vivid reddish-orange eyes, small ear piercings, crisp white shirt high collar, black shoulder armor/straps and red necktie, black gold uniform. Calm cool closed-mouth expression. Draw ONE front-facing head-and-shoulders portrait, level eyes clearly visible, with all crown hair/horns/hair ornaments fully inside frame and safe margin. Match the supplied character reference precisely. Simple crisp fine dark outlines, clean flat colors and restrained shadows, matching established project, no chibi proportions. Keep complete front fringe and rear hair on this reference cel; later these will be separated. Actual transparent background, no hands, weapon, text, logos, watermark, frame or blush hatching. Do not crop crown tips. Portrait canvas, large readable head, stable frontal gaze.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "key": "calcharo_base",
+    "character": "卡卡罗",
+    "file": "第一形态-完整.png",
+    "prompt": "Use case: stylized-concept. Asset: first-form head-and-shoulders animation cel for the project's Wuthering Waves iris transition video. Input 1 is character identity and costume reference; input 2 is ONLY project's linework and restrained flat anime coloring style, do not copy Phoebe's identity, hat or costume. Character: Calcharo / 卡卡罗: adult masculine angular face, long silver-gray hair swept back with spiky crown and long side front locks, gray green eyes, dark angular eyebrows, subtle face scar/marks matching reference, serious stern expression without exaggeration, fitted black/charcoal futuristic armor/high collar with muted blue panels. No beard. Draw ONE front-facing head-and-shoulders portrait, level eyes clearly visible, with all crown hair/horns/hair ornaments fully inside frame and safe margin. Match the supplied character reference precisely. Simple crisp fine dark outlines, clean flat colors and restrained shadows, matching established project, no chibi proportions. Keep complete front fringe and rear hair on this reference cel; later these will be separated. Actual transparent background, no hands, weapon, text, logos, watermark, frame or blush hatching. Do not crop crown tips. Portrait canvas, large readable head, stable frontal gaze.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "key": "jinxi_face",
+    "character": "今汐",
+    "file": "第一形态-面部.png",
+    "prompt": "Use case: precise-object-edit. Registered animation FACE/BACK-HAIR base of the input. Keep EXACT same full portrait canvas, size, coordinates, expression, ears, brows, upper/lower eyelids, face, costume, long REAR hair and fixed head ornaments/horns/ribbons. Remove ALL front forehead scalp hair, parted/swept front cap, fringe and front cheek locks; reconstruct smooth skin forehead and temples beneath them, including scalp up to where the front hair root was. Do not leave any stationary blond/silver front-hair arc on the face base. Rear hair stays behind ears. Both eyes' ENTIRE interiors (iris, sclera, specular glints) must be genuinely alpha-transparent holes, with original eyelids/eyelashes/corners preserved at exact original coordinates. Keep full head/body positioning, no crop, no recentering, no redraw of costume, no new blush. Actual transparent exterior. This layer is under separate moving front hair. Keep original head ornaments and horns fixed and intact.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "key": "jinxi_iris",
+    "character": "今汐",
+    "file": "第一形态-虹膜原图.png",
+    "prompt": "Use case: stylized-concept. Eye-only asset based on input eyes. Generate ONE standalone COMPLETE round iris, soft pale gray-pink iris, a simple narrow dark gray pupil, subtle warm peach near lower iris; preserve reference design, no invented star. Complete the disc behind eyelids. NO white highlights, glints, shine, eyelashes, eyelids, skin, sclera, hair, face, text, or second disc. Keep characteristic original pupil shape and exact colors, do not invent detailed pattern not present in reference. Center disc at 85 percent square canvas width, genuinely transparent outside. Fine dark outline, simple restrained flat anime art matching input.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "key": "zanni_face",
+    "character": "赞妮",
+    "file": "第一形态-面部.png",
+    "prompt": "Use case: precise-object-edit. Registered animation FACE/BACK-HAIR base of the input. Keep EXACT same full portrait canvas, size, coordinates, expression, ears, brows, upper/lower eyelids, face, costume, long REAR hair and fixed head ornaments/horns/ribbons. Remove ALL front forehead scalp hair, parted/swept front cap, fringe and front cheek locks; reconstruct smooth skin forehead and temples beneath them, including scalp up to where the front hair root was. Do not leave any stationary blond/silver front-hair arc on the face base. Rear hair stays behind ears. Both eyes' ENTIRE interiors (iris, sclera, specular glints) must be genuinely alpha-transparent holes, with original eyelids/eyelashes/corners preserved at exact original coordinates. Keep full head/body positioning, no crop, no recentering, no redraw of costume, no new blush. Actual transparent exterior. This layer is under separate moving front hair. Keep original head ornaments and horns fixed and intact.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "key": "zanni_iris",
+    "character": "赞妮",
+    "file": "第一形态-虹膜原图.png",
+    "prompt": "Use case: stylized-concept. Eye-only asset based on input eyes. Generate ONE standalone COMPLETE round iris, fiery orange-red outer iris, golden amber inner area, small dark narrow pupil as in reference; no invented star. Complete the disc behind eyelids. NO white highlights, glints, shine, eyelashes, eyelids, skin, sclera, hair, face, text, or second disc. Keep characteristic original pupil shape and exact colors, do not invent detailed pattern not present in reference. Center disc at 85 percent square canvas width, genuinely transparent outside. Fine dark outline, simple restrained flat anime art matching input.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "key": "calcharo_face",
+    "character": "卡卡罗",
+    "file": "第一形态-面部.png",
+    "prompt": "Use case: precise-object-edit. Registered animation FACE/BACK-HAIR base of the input. Keep EXACT same full portrait canvas, size, coordinates, expression, ears, brows, upper/lower eyelids, face, costume, long REAR hair and fixed head ornaments/horns/ribbons. Remove ALL front forehead scalp hair, parted/swept front cap, fringe and front cheek locks; reconstruct smooth skin forehead and temples beneath them, including scalp up to where the front hair root was. Do not leave any stationary blond/silver front-hair arc on the face base. Rear hair stays behind ears. Both eyes' ENTIRE interiors (iris, sclera, specular glints) must be genuinely alpha-transparent holes, with original eyelids/eyelashes/corners preserved at exact original coordinates. Keep full head/body positioning, no crop, no recentering, no redraw of costume, no new blush. Actual transparent exterior. This layer is under separate moving front hair. Keep original head ornaments and horns fixed and intact.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "key": "calcharo_iris",
+    "character": "卡卡罗",
+    "file": "第一形态-虹膜原图.png",
+    "prompt": "Use case: stylized-concept. Eye-only asset based on input eyes. Generate ONE standalone COMPLETE round iris, muted gray-green iris and narrow dark vertical pupil, darker upper half and paler lower half, crisp restrained anime lines. Complete the disc behind eyelids. NO white highlights, glints, shine, eyelashes, eyelids, skin, sclera, hair, face, text, or second disc. Keep characteristic original pupil shape and exact colors, do not invent detailed pattern not present in reference. Center disc at 85 percent square canvas width, genuinely transparent outside. Fine dark outline, simple restrained flat anime art matching input.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "key": "jinxi_hair_v2",
+    "character": "今汐",
+    "file": "第一形态-前发-原图.png",
+    "prompt": "Use case: precise-object-edit, registered FRONT FRINGE extraction. Exact input portrait is the registration target. Preserve EXACT full original canvas and coordinates, no centering/crop/resize. Only the short straight FOREHEAD FRINGE between the two temples, the central wispy bangs falling to eyebrow level. Keep ONLY the fringe in the central approx 35%-66% of canvas width and upper 10%-38% of height. The swept side scalp hair leading outward toward the gold ornaments is BACK HAIR, remove it. The long twin tails, long side loops, side ribbons, side hair below ears, and all hair continuing to shoulders must be completely absent. The result must be a SMALL fringe patch in upper-middle of the original full canvas, with the entire lower half fully empty transparent. Keep original strand shape, light silver color and fine outlines of the selected fringe only. Everything else, especially face/eyes/eyebrows, skin, ears, rear hair and ornaments, must be GENUINE ALPHA TRANSPARENCY, no white matte. Do not draw new hair. Do not interpret 'front' as all visible hair; the hair that lies behind/beside ears stays in the fixed base layer. Return only the specified forehead fringe.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "key": "zanni_hair_v2",
+    "character": "赞妮",
+    "file": "第一形态-前发-原图.png",
+    "prompt": "Use case: precise-object-edit, registered FRONT FRINGE extraction. Exact input portrait is the registration target. Preserve EXACT full original canvas and coordinates, no centering/crop/resize. Only the FOREHEAD BANGS and the few SHORT face-front tufts ending by the middle of the cheeks. These occupy the face zone in roughly central 30%-70% width, 18%-55% height. Remove ALL long side hair below ears, all shoulder-length locks, all red-striped neck hair, rear hair, both horns, earrings. Nothing may extend to shoulders, neck or clothing. The bottom 40% of original canvas must be completely empty transparent. This is a small frontal fringe patch, never a whole wig. Keep original strand shape, light silver color and fine outlines of the selected fringe only. Everything else, especially face/eyes/eyebrows, skin, ears, rear hair and ornaments, must be GENUINE ALPHA TRANSPARENCY, no white matte. Do not draw new hair. Do not interpret 'front' as all visible hair; the hair that lies behind/beside ears stays in the fixed base layer. Return only the specified forehead fringe.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "key": "calcharo_hair_v2",
+    "character": "卡卡罗",
+    "file": "第一形态-前发-原图.png",
+    "prompt": "Use case: precise-object-edit, registered FRONT FRINGE extraction. Exact input portrait is the registration target. Preserve EXACT full original canvas and coordinates, no centering/crop/resize. Only the TWO narrow long wisps hanging across the forehead plus SHORT front temple strands that lie in front of the upper cheeks. Remove the entire spiky crown silhouette, all outer side hair mass, all long rear hair over shoulders/chest, neck hair and costume. Keep only sparse forehead/front-cheek strands, centered where they appear in the original portrait. No whole scalp cap, no long curtain of hair, no wig shape. All pixels below the chin are fully transparent. Keep original strand shape, light silver color and fine outlines of the selected fringe only. Everything else, especially face/eyes/eyebrows, skin, ears, rear hair and ornaments, must be GENUINE ALPHA TRANSPARENCY, no white matte. Do not draw new hair. Do not interpret 'front' as all visible hair; the hair that lies behind/beside ears stays in the fixed base layer. Return only the specified forehead fringe.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "key": "phoebe_q_plate",
+    "character": "菲比",
+    "file": "第二形态-色片原图.png",
+    "prompt": "Animation EYE COLOR PLATE ONLY for chibi eyes. The input is an eye-design reference, do NOT redraw any face. Produce ONE SQUARE, FULL-BLEED, OPAQUE FLAT COLOR FIELD that extends all the way to all four square edges: deep plum-purple upper half and pale lavender lower half with a gentle curved horizontal transition. The reference has NO separate pupil after removing its white glints, so keep simple colored fields without inventing a pupil. This is NOT a circular iris: NO circle silhouette, no circular rim, no dark outer ring, no sclera, no eyelids, no face, no white/transparent margin, no rounded corners. Color fills the ENTIRE rectangle; the existing eye holes will crop it in animation. Keep pupil pattern centered where applicable and extend the base colors far around it. Minimal hand-drawn chibi rendering, simple broad regions, no radial fibers or realistic eye texture, no text or watermark. No sphere or eyeball. Only the rectangular iris-color plate.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "key": "floro_q_plate",
+    "character": "弗洛洛",
+    "file": "第二形态-色片原图.png",
+    "prompt": "Animation EYE COLOR PLATE ONLY for chibi eyes. The input is an eye-design reference, do NOT redraw any face. Produce ONE SQUARE, FULL-BLEED, OPAQUE FLAT COLOR FIELD that extends all the way to all four square edges: muted dark rose/wine upper half and pale icy blue-gray lower half, crisp gently curved horizontal boundary. No added pupil if none visible in reference. This is NOT a circular iris: NO circle silhouette, no circular rim, no dark outer ring, no sclera, no eyelids, no face, no white/transparent margin, no rounded corners. Color fills the ENTIRE rectangle; the existing eye holes will crop it in animation. Keep pupil pattern centered where applicable and extend the base colors far around it. Minimal hand-drawn chibi rendering, simple broad regions, no radial fibers or realistic eye texture, no text or watermark. No sphere or eyeball. Only the rectangular iris-color plate.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "key": "jinxi_q_plate",
+    "character": "今汐",
+    "file": "第二形态-色片原图.png",
+    "prompt": "Animation EYE COLOR PLATE ONLY for chibi eyes. The input is an eye-design reference, do NOT redraw any face. Produce ONE SQUARE, FULL-BLEED, OPAQUE FLAT COLOR FIELD that extends all the way to all four square edges: charcoal gray-green upper half, cool dark gray middle band and pale silver-gray/lavender lower half. The large white shapes are glints: REMOVE them, do not turn them into a heart pupil. This is NOT a circular iris: NO circle silhouette, no circular rim, no dark outer ring, no sclera, no eyelids, no face, no white/transparent margin, no rounded corners. Color fills the ENTIRE rectangle; the existing eye holes will crop it in animation. Keep pupil pattern centered where applicable and extend the base colors far around it. Minimal hand-drawn chibi rendering, simple broad regions, no radial fibers or realistic eye texture, no text or watermark. No sphere or eyeball. Only the rectangular iris-color plate.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "key": "aimisi_q_plate",
+    "character": "爱弥斯",
+    "file": "第二形态-色片原图.png",
+    "prompt": "Animation EYE COLOR PLATE ONLY for chibi eyes. The input is an eye-design reference, do NOT redraw any face. Produce ONE SQUARE, FULL-BLEED, OPAQUE FLAT COLOR FIELD that extends all the way to all four square edges: dark warm amber top smoothly becoming golden-yellow lower area, with ONE centered four-point diamond/star pupil edged dark amber matching the reference, no white glossy glints. This is NOT a circular iris: NO circle silhouette, no circular rim, no dark outer ring, no sclera, no eyelids, no face, no white/transparent margin, no rounded corners. Color fills the ENTIRE rectangle; the existing eye holes will crop it in animation. Keep pupil pattern centered where applicable and extend the base colors far around it. Minimal hand-drawn chibi rendering, simple broad regions, no radial fibers or realistic eye texture, no text or watermark. No sphere or eyeball. Only the rectangular iris-color plate.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "key": "zanni_q_plate",
+    "character": "赞妮",
+    "file": "第二形态-色片原图.png",
+    "prompt": "Animation EYE COLOR PLATE ONLY for chibi eyes. The input is an eye-design reference, do NOT redraw any face. Produce ONE SQUARE, FULL-BLEED, OPAQUE FLAT COLOR FIELD that extends all the way to all four square edges: nearly uniform deep near-black eye-color field. No invented colored pupil or glints, the reference's visible eye is just black; white oval rim stays on the original face, do not draw a rim into the color field. This is NOT a circular iris: NO circle silhouette, no circular rim, no dark outer ring, no sclera, no eyelids, no face, no white/transparent margin, no rounded corners. Color fills the ENTIRE rectangle; the existing eye holes will crop it in animation. Keep pupil pattern centered where applicable and extend the base colors far around it. Minimal hand-drawn chibi rendering, simple broad regions, no radial fibers or realistic eye texture, no text or watermark. No sphere or eyeball. Only the rectangular iris-color plate.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "key": "chun_q_plate",
+    "character": "椿",
+    "file": "第二形态-色片原图.png",
+    "prompt": "Animation EYE COLOR PLATE ONLY for chibi eyes. The input is an eye-design reference, do NOT redraw any face. Produce ONE SQUARE, FULL-BLEED, OPAQUE FLAT COLOR FIELD that extends all the way to all four square edges: slate blue-gray upper half and pale cool lavender-gray lower half, a small centered round dark red-brown pupil ring with pale center as in reference. No added white shiny glints. This is NOT a circular iris: NO circle silhouette, no circular rim, no dark outer ring, no sclera, no eyelids, no face, no white/transparent margin, no rounded corners. Color fills the ENTIRE rectangle; the existing eye holes will crop it in animation. Keep pupil pattern centered where applicable and extend the base colors far around it. Minimal hand-drawn chibi rendering, simple broad regions, no radial fibers or realistic eye texture, no text or watermark. No sphere or eyeball. Only the rectangular iris-color plate.",
+    "mode": "built-in imagegen"
+  },
+  {
+    "key": "calcharo_q_plate",
+    "character": "卡卡罗",
+    "file": "第二形态-色片原图.png",
+    "prompt": "Animation EYE COLOR PLATE ONLY for chibi eyes. The input is an eye-design reference, do NOT redraw any face. Produce ONE SQUARE, FULL-BLEED, OPAQUE FLAT COLOR FIELD that extends all the way to all four square edges: desaturated gray-green upper half becoming pale gray-green lower half with ONE slim dark vertical pupil in the center, simple flat hand-drawn colors, no white glossy highlights. This is NOT a circular iris: NO circle silhouette, no circular rim, no dark outer ring, no sclera, no eyelids, no face, no white/transparent margin, no rounded corners. Color fills the ENTIRE rectangle; the existing eye holes will crop it in animation. Keep pupil pattern centered where applicable and extend the base colors far around it. Minimal hand-drawn chibi rendering, simple broad regions, no radial fibers or realistic eye texture, no text or watermark. No sphere or eyeball. Only the rectangular iris-color plate.",
+    "mode": "built-in imagegen"
+  }
+]

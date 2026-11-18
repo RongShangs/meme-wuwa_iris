@@ -1,0 +1,32 @@
+{
+  "generated_source": "角色/爱弥斯/素材/q2-v2/生成角色整图.png",
+  "eye_centers": [
+    [
+      808,
+      673
+    ],
+    [
+      490,
+      673
+    ]
+  ],
+  "eye_regions": [
+    [
+      731,
+      625,
+      154,
+      95,
+      11787
+    ],
+    [
+      415,
+      625,
+      152,
+      96,
+      11858
+    ]
+  ],
+  "scale": 2.473656145081831,
+  "reference": "new/5爱弥斯/2.jpg",
+  "head_hair_ornaments": "one fixed generated full-character cel"
+}

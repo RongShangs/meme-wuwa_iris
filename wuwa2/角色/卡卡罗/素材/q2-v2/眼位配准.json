@@ -1,0 +1,32 @@
+{
+  "generated_source": "角色/卡卡罗/素材/q2-v2/生成角色整图.png",
+  "eye_centers": [
+    [
+      604,
+      668
+    ],
+    [
+      391,
+      668
+    ]
+  ],
+  "eye_regions": [
+    [
+      568,
+      620,
+      73,
+      106,
+      6843
+    ],
+    [
+      366,
+      621,
+      50,
+      104,
+      4481
+    ]
+  ],
+  "scale": 1.742094046289014,
+  "reference": "new/8卡卡罗/2.jpg",
+  "head_hair_ornaments": "one fixed generated full-character cel"
+}

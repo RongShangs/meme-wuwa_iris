@@ -1,0 +1,12 @@
+{
+  "samples": 407190,
+  "sample_rate": 44100,
+  "video_audio_gap_seconds": 0.0,
+  "boundary_sample_step": 0.05468292534351349,
+  "ordinary_step_95th": 0.028302157297730446,
+  "first_35ms_rms": 0.2856414020061493,
+  "last_35ms_rms": 0.2775247097015381,
+  "loop_beats": 20,
+  "beat_phase_error_ms": 2.564102564102555,
+  "transition_ms": 120
+}

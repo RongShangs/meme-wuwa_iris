@@ -1,0 +1,32 @@
+{
+  "generated_source": "角色/今汐/素材/q2-v2/生成角色整图.png",
+  "eye_centers": [
+    [
+      830,
+      536
+    ],
+    [
+      504,
+      549
+    ]
+  ],
+  "eye_regions": [
+    [
+      739,
+      446,
+      182,
+      179,
+      25828
+    ],
+    [
+      414,
+      460,
+      180,
+      177,
+      25135
+    ]
+  ],
+  "scale": 1.6514277855948793,
+  "reference": "new/4今汐/2.jpg",
+  "head_hair_ornaments": "one fixed generated full-character cel"
+}

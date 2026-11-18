@@ -1,0 +1,9 @@
+{
+  "mode": "built-in image_gen edit",
+  "asset": "角色/椿/素材/q2-v4/第二形态-全身-眼型修正原图.png",
+  "prompt": "Edit target image1 is the approved COMPLETE FULL-BODY chibi Camellya transparent cel. Reference image2 shows the intended silly face/expression. Correct ONLY the eye apertures: image1 has oversized WIDE SQUARED eye holes causing ugly white rectangular blocks behind the separate oval irises. Replace each wide box-shaped hole with a NARROW NATURAL ROUNDED OVAL eye window, centered at the SAME existing eye position, about TWO THIRDS the old width, keeping approximately the old height. Restore matching peach face skin to the removed outer corners and sides of the old wide rectangular hole. The new lower boundary must be a smooth round curve, absolutely NO FLAT HORIZONTAL BOTTOM and NO squared corners. New oval-shaped eye interiors must remain truly ALPHA TRANSPARENT, not painted white, black, or checkerboard. Preserve the existing black UPPER eyelash/lid curve and eyebrows, but do not add fixed black lower/side iris outlines; those belong to a separate movable iris. The hole should closely hug a naturally upright iris so only a tiny natural eye-white crescent can be visible, rather than an entire white box. Keep the smile, blush and ALL other pixels/design of the full-body character: silver-white hair, black headband, existing bow/ribbons, earrings, rose curls, gray costume/skirt, hands, legs and boots, same pose, crop and proportions. Do not add accessories, text, new hair strands or decorative objects. Keep background genuinely transparent. Output high-resolution portrait RGBA PNG with the ENTIRE body including both boots and two clean narrow oval transparent eye openings.",
+  "references": [
+    "角色/椿/素材/q2-v3/第二形态-全身-透明原图.png",
+    "new/7椿/2.jpg"
+  ]
+}

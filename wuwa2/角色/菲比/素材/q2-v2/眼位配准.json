@@ -1,0 +1,32 @@
+{
+  "generated_source": "角色/菲比/素材/q2-v2/生成角色整图-透明.png",
+  "eye_centers": [
+    [
+      762,
+      632
+    ],
+    [
+      476,
+      631
+    ]
+  ],
+  "eye_regions": [
+    [
+      688,
+      559,
+      149,
+      145,
+      17302
+    ],
+    [
+      403,
+      561,
+      147,
+      140,
+      16448
+    ]
+  ],
+  "scale": 2.243945405114417,
+  "reference": "new/1菲比/2.jpg",
+  "head_hair_ornaments": "one fixed generated full-character cel"
+}

@@ -1,0 +1,32 @@
+{
+  "generated_source": "角色/弗洛洛/素材/q2-v2/生成角色整图.png",
+  "eye_centers": [
+    [
+      826,
+      653
+    ],
+    [
+      529,
+      652
+    ]
+  ],
+  "eye_regions": [
+    [
+      765,
+      610,
+      123,
+      97,
+      10181
+    ],
+    [
+      468,
+      610,
+      123,
+      96,
+      10075
+    ]
+  ],
+  "scale": 2.2787749619171316,
+  "reference": "new/2弗洛洛/2.jpg",
+  "head_hair_ornaments": "one fixed generated full-character cel"
+}

@@ -1,0 +1,195 @@
+{
+  "canvas": {
+    "width": 1080,
+    "height": 1576,
+    "fps": 30,
+    "background_bgr": [
+      250,
+      250,
+      250
+    ]
+  },
+  "camera_shift_pixels": 10,
+  "shots": [
+    {
+      "name": "爱弥斯第一形态",
+      "face": "素材/aimisi/normal-face-v2.png",
+      "hair": "素材/aimisi/normal-hair-v2.png",
+      "accessories": null,
+      "iris": "素材/aimisi/iris-ready.png",
+      "eye_center_source": [
+        468,
+        620
+      ],
+      "scale": 3.2,
+      "camera_dx": [
+        27.7,
+        -9.96154,
+        -24.60769,
+        -31.93077,
+        -37.03077,
+        -39.64615,
+        -41.21538,
+        -42.0,
+        -43.96154,
+        -49.19231,
+        -56.64615,
+        -68.15385,
+        -82.66923,
+        -101.5
+      ],
+      "hair_sway": [
+        0.0,
+        9.41538,
+        8.76154,
+        5.88462,
+        2.74615,
+        -0.39231,
+        -3.53077,
+        -5.88462,
+        -6.14615,
+        -4.05385,
+        -0.52308,
+        4.18462,
+        8.89231,
+        13.6
+      ],
+      "hair_pivot": [
+        565,
+        250
+      ],
+      "rotation_degrees_per_sway": 0.05,
+      "iris_size": 200,
+      "hair_registration": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "iris_centers_source": [
+        [
+          468,
+          620
+        ],
+        [
+          665,
+          620
+        ]
+      ],
+      "iris_highlight": {
+        "vertical": -0.13
+      },
+      "iris_layer": "素材/new-v1/第一形态-虹膜组.png",
+      "iris_layer_registration": [
+        0.3125,
+        0,
+        435.625,
+        0,
+        0.3125,
+        587.8125
+      ]
+    },
+    {
+      "name": "爱弥斯第二形态-Q版重绘",
+      "face": "素材/q2-v2/第二形态-重绘整图.png",
+      "hair": "素材/q2-v2/第二形态-空前发.png",
+      "accessories": null,
+      "iris": "素材/q2-v2/第二形态-虹膜.png",
+      "iris_clip": "素材/q2-v2/第二形态-眼眶可见区.png",
+      "eye_center_source": [
+        808,
+        673
+      ],
+      "iris_centers_source": [
+        [
+          808,
+          673
+        ],
+        [
+          490,
+          673
+        ]
+      ],
+      "scale": 2.1768174076720115,
+      "iris_size": 479,
+      "camera_dx": [
+        -69.7,
+        -27.625,
+        -18.13333,
+        -10.625,
+        -6.23333,
+        -3.11667,
+        -0.85,
+        1.41667,
+        4.53333,
+        7.65,
+        11.05,
+        16.15,
+        25.5
+      ],
+      "hair_sway": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "hair_pivot": [
+        0,
+        0
+      ],
+      "rotation_degrees_per_sway": 0,
+      "hair_registration": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "iris_highlight": {
+        "direction": -1,
+        "vertical": -0.13,
+        "radius_x": 0.05,
+        "radius_y": 0.033
+      },
+      "iris_layer": "素材/q2-v2/第二形态-虹膜组.png",
+      "iris_layer_registration": [
+        0.45938625650253595,
+        0,
+        378.5342753580896,
+        0,
+        0.45938625650253595,
+        561.370005446099
+      ]
+    }
+  ],
+  "audio": {
+    "path": "../../素材/音轨/new-八角色-音乐循环修正.wav",
+    "start_seconds": 4.7
+  },
+  "timing": {
+    "global_start_frame": 141,
+    "sample_frames": [
+      7,
+      20
+    ]
+  },
+  "output": "成片/new-高光调整.mp4",
+  "provenance": {
+    "order": 5,
+    "first_form": "reused existing adopted cels",
+    "second_form": "new generated full Q character cel plus separate eye color plate",
+    "iris_motion": "screen-anchored group, independent from face camera movement"
+  }
+}

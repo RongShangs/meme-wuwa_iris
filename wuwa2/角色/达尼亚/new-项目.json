@@ -1,0 +1,155 @@
+{
+  "canvas": {
+    "width": 1080,
+    "height": 1576,
+    "fps": 30,
+    "background_bgr": [
+      250,
+      250,
+      250
+    ]
+  },
+  "camera_shift_pixels": 10,
+  "shots": [
+    {
+      "name": "达尼亚第一形态",
+      "face": "素材/denia-v19/normal-face.png",
+      "hair": "素材/denia-v19/bangs.png",
+      "accessories": "素材/denia-v19/accessories.png",
+      "iris": "素材/denia-v16/iris-ready.png",
+      "eye_center_source": [
+        458,
+        720
+      ],
+      "scale": 1.8175999999999999,
+      "camera_dx": [
+        67.7,
+        30.03846,
+        15.39231,
+        8.06923,
+        2.96923,
+        0.35385,
+        -1.21538,
+        -2.0,
+        -3.96154,
+        -9.19231,
+        -16.64615,
+        -28.15385,
+        -42.66923,
+        -61.5
+      ],
+      "hair_sway": [
+        0.0,
+        9.41538,
+        8.76154,
+        5.88462,
+        2.74615,
+        -0.39231,
+        -3.53077,
+        -5.88462,
+        -6.14615,
+        -4.05385,
+        -0.52308,
+        4.18462,
+        8.89231,
+        13.6
+      ],
+      "hair_pivot": [
+        600,
+        300
+      ],
+      "rotation_degrees_per_sway": 0.05,
+      "iris_size": 200,
+      "iris_centers_source": [
+        [
+          458,
+          720
+        ],
+        [
+          740,
+          720
+        ]
+      ],
+      "hair_registration": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "iris_highlight": {
+        "vertical": -0.15
+      },
+      "iris_layer": "素材/new-v1/第一形态-虹膜组.png",
+      "iris_layer_registration": [
+        0.5501760563380282,
+        0,
+        401.0783450704226,
+        0,
+        0.5501760563380282,
+        662.962147887324
+      ]
+    },
+    {
+      "name": "达尼亚第二形态-重绘闭眼",
+      "type": "still",
+      "face": "素材/q2-v2/第二形态-重绘整图.png",
+      "anchor_source": [
+        800,
+        645
+      ],
+      "scale": 1.6364912280701756,
+      "camera_dx": [
+        -69.7,
+        -30.86154,
+        -19.09231,
+        -12.42308,
+        -7.19231,
+        -4.31538,
+        -1.56923,
+        -0.13077,
+        2.61538,
+        5.49231,
+        8.36923,
+        11.76923,
+        16.86923,
+        25.5
+      ],
+      "hair_sway": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "audio": {
+    "path": "../../素材/音轨/new-八角色-音乐循环修正.wav",
+    "start_seconds": 2.8333333333333335
+  },
+  "timing": {
+    "global_start_frame": 85,
+    "sample_frames": [
+      7,
+      21
+    ]
+  },
+  "output": "成片/new-高光调整.mp4",
+  "provenance": {
+    "order": 3,
+    "first_form": "reused existing adopted cels",
+    "second_form": "new generated full Q character cel plus separate eye color plate",
+    "iris_motion": "screen-anchored group, independent from face camera movement"
+  }
+}
